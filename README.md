@@ -1,4 +1,3 @@
-IGNORE NNF FILE
 <div align="center">
 
 <img src="https://img.shields.io/badge/Platform-ESP32-blue?style=for-the-badge&logo=espressif" />
